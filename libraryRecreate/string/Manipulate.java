@@ -1,4 +1,4 @@
-package OOP_Basics.libraryRecreate.string;
+package string;
 
 public class Manipulate {
     private String str;

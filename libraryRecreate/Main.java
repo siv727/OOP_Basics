@@ -1,6 +1,4 @@
-package OOP_Basics.libraryRecreate;
-
-import OOP_Basics.libraryRecreate.string.Manipulate;
+import string.Manipulate;
 
 public class Main {
     public static void main(String[] args) {
