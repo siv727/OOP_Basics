@@ -1,5 +1,6 @@
 package string;
 
+// NOTE : THIS CLASS IS NOT STATIC SO NEED OBJECTS TO USE THE METHODS :D
 public class Manipulate {
     private String str;
 
